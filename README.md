@@ -233,8 +233,8 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 
 **Chavidisetty Naga Sai Tejaswi Kumar**
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/YOUR_USERNAME](https://github.com/chavidisettyteja
+* LinkedIn: linkedin.com/in/tejachavidisetty
 
 ---
 
