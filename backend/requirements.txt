@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+python-multipart
+python-dotenv
+mistralai==1.5.0
